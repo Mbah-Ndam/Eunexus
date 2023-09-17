@@ -1,0 +1,23 @@
+article=[
+    {},
+    {
+        "nom":"Drone E88 Pro Mini Quadricoptère Pliable 4K 1080P WiFi Fpv",
+        "prix":"100000",
+        "image":"article/drone_01.jpg",
+    },
+    {
+        "nom":"Drone quadrirotor p40 caméra HD 1080P, Vidéo en direct WiFi FPV",
+        "prix":"60000",
+        "image":"article/drone_02.jpg",
+    },
+    {
+        "nom":"Drone PIHOT P40 Plus Drone Double Objectif 4K HD",
+        "prix":"60000",
+        "image":"article/drone_03.jpg",
+    },
+    {
+        "nom":"Drone p30 pihot proffessionelle reel ultra HD",
+        "prix":"68500",
+        "image":"article/drone_04.jpg",
+    }
+    ];
